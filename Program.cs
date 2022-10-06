@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace Cse210Starter
+namespace HiloGame
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Director director = new Director();
 
-            // Write your code here
+           director.StartGame();
         }
     }
 }

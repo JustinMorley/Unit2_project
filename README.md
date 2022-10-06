@@ -1,4 +1,3 @@
-# cse210-student-csharp-empty-starter
-This is an empty starter project for .NET 6.0 that follows the traditional template included in .NET 5.0.
+# Unit 2 Project: Hilo Game
 
-It also includes .vscode files needed to build and launch the program.
+This repository is for the unit 2 project for programming with classes
